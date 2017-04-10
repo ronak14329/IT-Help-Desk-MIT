@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Flash_Slide_Show_Project version="1.00" Photo_count="7" Flash_Width="640" Flash_Height="480" Flash_Title="Images" Background_Color="0x000000" Background_Music_Count="0" Frame_Rate="25" duration_transition="2" duration_show="2" Theme_id="0" Decoration_id="0" _blank="0" AutoPlay="1" AutoRepeat="1" ShowButton="1" EnableURL="1" ContinuePlayingClick="1">
+    <Temp_Folder>C:\Users\Nagda Puran\Documents\Flash Slideshow Maker v2.50\\temp\</Temp_Folder>
+    <Output_Folder Output_SWF="images.swf" Output_HTML="images.html">C:\Users\Nagda Puran\Documents\Flash Slideshow Maker v2.50\output\</Output_Folder>
+    <Photo_Data id="0" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus" Description="Width x Height   : 810 x 184
+Flash used   : No
+Encoding      : Baseline
+
+" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus.jpg    </Photo_Data>
+    <Photo_Data id="1" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus1" Description="Width x Height   : 815 x 181
+Flash used   : No
+Encoding      : Baseline
+
+" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus1.jpg    </Photo_Data>
+    <Photo_Data id="2" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus2" Description="" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus2.jpg    </Photo_Data>
+    <Photo_Data id="3" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus3" Description="" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus3.jpg    </Photo_Data>
+    <Photo_Data id="4" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus4" Description="" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus4.jpg    </Photo_Data>
+    <Photo_Data id="5" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="Campus5" Description="" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\Campus5.jpg    </Photo_Data>
+    <Photo_Data id="6" rotate_angle="0" duration_show="2" transition_duration="2" transition_effect="0" Title="frontmit_0" Description="Width x Height   : 337 x 175
+X resolution (dpi) :  72.0
+Y resolution (dpi) :  72.0
+Flash used   : No
+Encoding      : Progressive
+
+" Url="http://www.flash-slideshow-maker.com">D:\ithelpdesk\ITHDMIT\Images\frontmit_0.jpg    </Photo_Data>
+</Flash_Slide_Show_Project>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FSS_Photo_Info version="1.00">
+    <Album_Data sprite_count="0">
+    </Album_Data>
+    <Image_Data id="0" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="1" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus1.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="2" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus2.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="3" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus3.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="4" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus4.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="5" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\Campus5.jpg</File_Name>
+    </Image_Data>
+    <Image_Data id="6" angle="0" sprite_count="0">
+        <File_Name>D:\ithelpdesk\ITHDMIT\Images\frontmit_0.jpg</File_Name>
+    </Image_Data>
+</FSS_Photo_Info>
